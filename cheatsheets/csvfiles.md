@@ -50,14 +50,14 @@ Because CSV files are just plain text files, you can open them in any text edito
 
 This is how sublime looks like:
 
-![sublime](sublime.png)
+![sublime](figures/sublime.png)
 
 
 ### Example
 
 Go to https://www.statbank.dk/ and download a table as a CSV file.
 Select `Comma sep (*.csv*)` as file type, and play around with the options you have:
-![screenshot](dst.png)
+![screenshot](figures/dst.png)
 
 Open the CSV file in a text editor and check out what happens if you add the footnotes or do not choose `code in sep. columns`. Do you see how you could fix it?
 
